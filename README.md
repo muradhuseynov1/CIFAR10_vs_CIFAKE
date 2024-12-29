@@ -15,8 +15,11 @@ This GitHub repository is structured for presentation purposes and showcases six
 
 - **metrics**  
   Stores the evaluation metrics for all the models.
+  
 - **data**
+
   Folder where we loaded the data
+  
 - **models**  
   Contains the implementation of all the models.
 
