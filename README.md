@@ -8,14 +8,15 @@ This GitHub repository is structured for presentation purposes and showcases six
 ## Repository Structure
 
 - **checkpoints**  
-  Contains saved model weights. (Due to file size, some models are provided as zipped archives.)
+  Contains saved model weights. Due to file size, some models are provided as google drive links.
 
 - **graphics**  
   Includes visualizations and graphics for all the models.
 
 - **metrics**  
   Stores the evaluation metrics for all the models.
-
+- **data**
+  Folder where we loaded the data
 - **models**  
   Contains the implementation of all the models.
 
