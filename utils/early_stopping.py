@@ -23,6 +23,6 @@ class EarlyStopping:
                 self.early_stop = True
 
 """
-for our short trainings we never reached limit of patience
-however we are aware that early stoppping function is important for longer trainings
+for our short trainings we never reached limit of patience 
+for densenet but we reached it for wideresnet
 """
